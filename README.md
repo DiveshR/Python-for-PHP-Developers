@@ -20,7 +20,7 @@ But, compared to PHP, you do not need to set up a web server or MySQL database s
 ##### MacOS
 https://www.python.org/downloads/macos/
 
-### Lesson 2. Python vs PHP: Main Syntax Differences
+## Lesson 2. Python vs PHP: Main Syntax Differences
 
 ### Python
 
