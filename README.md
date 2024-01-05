@@ -32,7 +32,7 @@ if a > 5:
     print('Bigger than 5') #This is inline comment 
 elif a>=0:
 print('In Between 0 amd  5')
-else
+else:
 print('Negative')
 
 ```````
